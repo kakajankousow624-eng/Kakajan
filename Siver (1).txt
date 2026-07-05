@@ -13,3 +13,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.2:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.2:443#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%2013
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.3:443#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%2014
 vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=atlantic.vk221.online&fp=chrome&type=ws&allowInsecure=0&sni=atlantic.vk221.online#%F0%9F%87%A6%F0%9F%87%B7Kakajan%2015
+vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=atlantic.vk221.online&fp=chrome&type=ws&allowInsecure=0&sni=atlantic.vk221.online#%F0%9F%87%A6%F0%9F%87%B7Messi
